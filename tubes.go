@@ -1,5 +1,7 @@
 package main
 
+//Nama : Ahmad Rofi' Izzulhaq
+//NIM : 103032400045
 import (
 	"fmt"
 )

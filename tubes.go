@@ -8,7 +8,7 @@ import (
 
 // --- KONSTANTA DAN TIPE DATA ---
 
-const MAX_MENU_PER_HARI = 10
+const MAX_MENU_PER_HARI = 10 //Max menu perhari
 const JUMLAH_HARI = 7
 const JUMLAH_MENU = 5
 
